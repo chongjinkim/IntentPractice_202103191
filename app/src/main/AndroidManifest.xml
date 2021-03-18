@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.IntentPractice_202103191">
-        <activity android:name=".MyFristActivity"></activity>
+        <activity android:name=".MySecondAcitivty"></activity>
+        <activity android:name=".MyFristActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
